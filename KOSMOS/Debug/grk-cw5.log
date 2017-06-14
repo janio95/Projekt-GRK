@@ -1,0 +1,10 @@
+﻿  Texture.cpp
+  Shader_Loader.cpp
+  Render_Utils.cpp
+  picopng.cpp
+  main_5_1.cpp
+  Camera.cpp
+  Generating Code...
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  grk-cw5.vcxproj -> X:\KOSMOS\Debug\grk-cw5.exe
+  grk-cw5.vcxproj -> X:\KOSMOS\Debug\grk-cw5.pdb (Full PDB)
